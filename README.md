@@ -3,7 +3,7 @@
 <p>Esse projeto, desenvolvido como parte da disciplina de Programação de Dispositivos Móveis, consiste em um aplicativo Android chamado "Calculadora IMC com Feedback Positivo". Seu objetivo é calcular o Índice de Massa Corporal (IMC) e exibir mensagens motivacionais personalizadas com base na classificação obtida. O app é dividido em múltiplas telas (Activities) para facilitar a navegação e entrega de informações.</p>
 
 <p align="center">
-<img src="https://github.com/VickciV1102/CalculadoraIMC_Projeto/blob/master/img/img.png" alt="SafeRide" border="0">
+<img src="https://github.com/VickciV1102/Projeto_CalculadoraIMC/blob/main/img/img.png" alt="IMC_img" border="0">
 
 # Descrição do processo de desenvolvimento
 ## Planejamento e Estruturação
