@@ -1,3 +1,10 @@
+# PROJETO CALCULADORA IMC COM FEEDBACK POSITIVOS
+
+<b>Nome: Vitória Leticia Maciel da Silva</b><br>
+<b>RA: 24026593</b><br>
+<b>Curso: Ciência da Computação</b><br>
+<b>Sala/Semestre: CCOMP3</b><br>
+
 # Descrição Geral do Projeto
   
 <p>Esse projeto, desenvolvido como parte da disciplina de Programação de Dispositivos Móveis, consiste em um aplicativo Android chamado "Calculadora IMC com Feedback Positivo". Seu objetivo é calcular o Índice de Massa Corporal (IMC) e exibir mensagens motivacionais personalizadas com base na classificação obtida. O app é dividido em múltiplas telas (Activities) para facilitar a navegação e entrega de informações.</p>
