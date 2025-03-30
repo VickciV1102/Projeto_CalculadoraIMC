@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Atribuindo cores-->
+    <color name="Color1"> #006341</color>
+    <color name="Color2">#00A859</color>
+    <color name="Color3">#4D4D4D</color>
+    <color name="Color4">#B3B3B3</color>
+    <color name="Color5">#FFFFFF</color>
+
+    <!--Atribuindo String-->
+    <string name="T1btnMain">CALCULADORA IMC</string>
+    <string name="T2btnCalcularIMC">CALCULAR IMC</string>
+    <string name="T2TextPeso">Digite seu peso (em kg)</string>
+    <string name="T2TextAltura">Digite sua altura (em metros)</string>
+    <string name="T2btnLimpar">LIMPAR</string>
+    <string name="T2btnFechar">FECHAR</string>
+    <string name="TFeedbackbtn">FECHAR</string>
+    <string name="TFeedbackTextResultado">RESULTADO</string>
+    <string name="FraseAbaixoDoPeso">Cada refeição é uma oportunidade de nutrir seu corpo com o cuidado que ele merece. A jornada para o equilíbrio começa agora!</string>
+    <string name="FrasePesoNormal">Você está trilhando o caminho do equilíbrio! Continue cuidando do seu bem-estar com amor e atenção aos detalhes.</string>
+    <string name="FraseSobrePeso">A mudança começa com pequenos passos! Valorize suas conquistas diárias e avance em direção ao seu objetivo com confiança.</string>
+    <string name="FraseObesidade1">Seu corpo é um reflexo da sua história, e toda história pode ser ressignificada. Você tem a força para escrever um capítulo cheio de saúde!</string>
+    <string name="FraseObesidade2">A transformação começa com escolhas simples e consistentes. Confie no processo e celebre cada progresso ao longo do caminho!</string>
+    <string name="FraseObesidade3">Seu valor vai muito além dos números! Ame-se profundamente, e com determinação, sua saúde pode se tornar a sua maior vitória.</string>
+</resources>
